@@ -1,0 +1,4 @@
+Link for speecht5 finetuned model for tech terms - 
+https://huggingface.co/gauri-sharan/speecht5-vector-embeddings
+
+Link for bark hindi model - 
