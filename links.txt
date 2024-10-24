@@ -1,4 +1,9 @@
 Link for speecht5 finetuned model for tech terms - 
 https://huggingface.co/gauri-sharan/speecht5-vector-embeddings
 
-Link for bark hindi model - 
+Huggingface link for Bark Hindi app -
+https://huggingface.co/spaces/gauri-sharan/tts-bark-test 
+
+Huggingface link for SpeechT5 app -
+https://huggingface.co/spaces/gauri-sharan/tts-speecht5-test (not running at the moment)
+
