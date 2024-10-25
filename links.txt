@@ -5,5 +5,5 @@ Huggingface link for Bark Hindi app -
 https://huggingface.co/spaces/gauri-sharan/tts-bark-test 
 
 Huggingface link for SpeechT5 app -
-https://huggingface.co/spaces/gauri-sharan/tts-speecht5-test (not running at the moment)
+https://huggingface.co/spaces/gauri-sharan/tts-speecht5-test 
 
